@@ -1,0 +1,13 @@
+  
+h1{
+    color:blue
+}
+#hex{
+    color: #6ba7db;
+}
+#rgb{
+    color: rgba(54, 115, 8 , 0.2);
+}
+#hsl{
+    color:hsl(348, 51%, 57%);
+}

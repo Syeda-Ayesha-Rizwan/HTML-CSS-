@@ -1,0 +1,15 @@
+p{
+    color: aqua;
+}
+/* #second{ 
+    color: crimson;
+}*/
+.para{
+    color: rgb(85, 42, 165);
+}
+h1 , p{
+    color: darkblue;
+}
+*{
+    background-color: cadetblue;
+}

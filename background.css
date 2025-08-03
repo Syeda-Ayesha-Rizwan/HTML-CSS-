@@ -1,0 +1,11 @@
+body{
+   /* background-color: rgb(201, 176, 140);*/
+   /* background-image: url(5630939.jpg);
+    background-size: auto;
+    background-repeat: no-repeat;
+    background-position: no-repeat;*/
+    background: url(5630939.jpg) repeat-x center/cover   ;
+}
+.heading{
+    background-color: burlywood;
+}
