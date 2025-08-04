@@ -1,0 +1,39 @@
+h1{
+    color: lab(32.3% 79.2 -107.86);
+    text-align: center;
+}
+#color{
+    color: darkcyan;
+}
+#textAllign{
+    text-align: justify;
+}
+#textDeco{
+    text-decoration: line-through;
+}
+#textTransform{
+    text-transform: capitalize;
+}
+#letterspacing{
+    letter-spacing: 2px;
+}
+#wordspacing{
+    word-spacing: 20px;
+}
+#lineHeight{
+    line-height: 5.5;
+}
+#textShadow{
+    text-shadow: 2px 2px 4px maroon;
+
+}
+#textindent{
+    text-indent: 40px;
+}
+
+
+
+
+
+
+
