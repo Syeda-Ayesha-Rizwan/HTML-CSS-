@@ -1,0 +1,15 @@
+/*h1{
+font-family:'Times New Roman', Times, serif;
+
+}
+p{
+    font-style: italic;
+}
+#googlefont{
+    font-family: Poppins ,  serif;
+}
+*/
+#shorthandmethod{
+  font: italic bold 16px/1.5 'Poppins', sans-serif;
+}
+
